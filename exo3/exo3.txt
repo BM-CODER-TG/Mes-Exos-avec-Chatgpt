@@ -1,0 +1,46 @@
+🚀 Exercice 3 : Découverte du CSS
+🎯 Objectif :
+
+Apprendre à utiliser le CSS pour ajouter de la couleur, changer les polices et améliorer la présentation.
+
+👉 Instructions :
+
+Crée un fichier exo3.html.
+
+Mets la structure HTML de base.
+
+Ajoute du CSS dans la balise <style> à l’intérieur du <head>.
+
+Applique les styles suivants :
+
+Partie HTML (structure)
+
+Mets un <h1> en haut avec ton prénom complet.
+
+Ajoute 2 sections :
+
+Une section "Présentation" avec un paragraphe.
+
+Une section "Centres d’intérêt" avec une liste de 3 éléments.
+
+Partie CSS (style)
+
+Mets le fond de la page en couleur claire (par ex. #f0f0f0).
+
+Mets le texte en noir.
+
+Change la couleur du <h1> (par ex. bleu).
+
+Aligne le <h1> au centre.
+
+Mets les titres <h2> en une autre couleur (par ex. vert).
+
+Mets les éléments de la liste <li> en italique.
+
+Mets un peu d’espace autour du texte avec padding ou margin.
+
+⚡ Bonus (si tu veux aller plus loin) :
+
+Mets une bordure autour d’une section.
+
+Change la police du texte (font-family: Arial, sans-serif;).

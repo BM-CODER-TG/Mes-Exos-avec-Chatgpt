@@ -1,0 +1,40 @@
+🚀 Exercice 4 : Mise en page en colonnes avec CSS
+🎯 Objectif :
+
+Découvrir comment organiser une page en plusieurs colonnes grâce au CSS (layout).
+
+👉 Instructions :
+
+Crée un fichier exo4.html.
+
+Mets la structure HTML de base.
+
+La page doit avoir 3 parties principales :
+
+Un en-tête (header) avec ton nom en grand.
+
+Un contenu en deux colonnes (main) :
+
+Colonne gauche : une petite présentation (paragraphe).
+
+Colonne droite : une liste de centres d’intérêt.
+
+Un pied de page (footer) avec ton prénom et l’année.
+
+👉 Partie CSS :
+
+Donne une couleur de fond différente à chaque section (header, main, footer).
+
+Utilise display: flex; pour mettre les 2 colonnes côte à côte.
+
+Mets une bordure ou une ombre autour des colonnes pour bien les distinguer.
+
+Le texte du header doit être centré et en blanc sur fond coloré (par ex. bleu foncé).
+
+Le footer doit avoir un texte plus petit et centré.
+
+⚡ Bonus (optionnel) :
+
+Ajoute un hover sur la liste des centres d’intérêt (quand on passe la souris sur un élément, il change de couleur).
+Exemple :
+

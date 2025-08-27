@@ -1,0 +1,19 @@
+🚀 Exercice 1 : Ta première page web
+
+Objectif : créer une page HTML très simple avec du texte, une image et un lien.
+
+👉 Instructions :
+
+Crée un fichier index.html.
+
+Mets la structure de base HTML (doctype, <html>, <head>, <body>).
+
+Dans la page :
+
+Mets un titre principal (niveau 1) avec ton prénom.
+
+Ajoute un paragraphe qui te décrit en quelques mots.
+
+Ajoute une image (tu peux prendre une image de ton ordinateur ou une image en ligne).
+
+Mets un lien vers un site que tu aimes (exemple : google.com, wikipedia.org, etc.).

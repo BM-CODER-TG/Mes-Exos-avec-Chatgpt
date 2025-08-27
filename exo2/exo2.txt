@@ -1,0 +1,42 @@
+🚀 Exercice 2 : Créer une page avec plusieurs sections et des listes
+🎯 Objectif :
+
+Apprendre à organiser une page avec des titres, des sections et des listes.
+
+👉 Instructions :
+
+Crée un nouveau fichier exo2.html.
+
+Mets la structure de base HTML (<!DOCTYPE html>, <html>, etc.).
+
+Dans le <body>, ajoute les sections suivantes :
+
+Section 1 : Présentation
+
+Un titre de niveau 2 : "À propos de moi"
+
+Un paragraphe avec une petite description (tu peux réutiliser ou modifier ton texte précédent).
+
+Section 2 : Centres d’intérêt
+
+Un titre de niveau 2 : "Mes centres d’intérêt"
+
+Une liste non ordonnée (<ul>) avec au moins 3 choses que tu aimes (par exemple : sport, musique, lecture…).
+
+Section 3 : Études
+
+Un titre de niveau 2 : "Mon parcours scolaire"
+
+Une liste ordonnée (<ol>) avec les étapes de ton parcours (exemple : école primaire, collège, lycée, université…).
+
+Section 4 : Contact
+
+Un titre de niveau 2 : "Me contacter"
+
+Mets une phrase du genre :
+👉 "Vous pouvez me retrouver sur [Pinterest]"
+avec un lien cliquable comme tu l’as fait avant.
+
+⚡ Petit bonus (optionnel) :
+
+Ajoute un <hr> (trait horizontal) entre les sections pour bien séparer les parties.
